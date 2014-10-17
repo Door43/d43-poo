@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[poo:home|Door43 (poo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-poo|d43-poo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-poo/archive/master.zip|d43-poo.zip]]
+
+**Recent Changes**
+{{changes>ns = poo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/poo|Ethnologue data]]
+
